@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Buynow</title>
+
+</head>
+<body>
+  <style>body{text-align: center;}</style>
+  <H1>fill this form out to agree and sign our contract</H1>
+    <label for="">
+      Full Name<input type="text" id="client">
+    </label><br><br>
+     <label for="">
+      Car Name<input type="text" id="car">
+    </label><br><br>
+    <label for="">
+      Phone Number<input type="text" id="phone">
+    </label><br><br>
+    <label for="">
+     Credit Card<input type="text" id="card">
+    </label> <br><br>
+    <button id="mybtn">Fill form</button><br>
+    by filling this out <span id="myname1"></span> agrees to buy the <span id="mycar"></span> from Accel Auto group if the car is destroyed under 1 year of purchase additional fines will be charged to <span id="myphone"></span> or <span id="mycard"></span> and <span id="myname"></span> agrees to our code of conduct and will responsibly use the car the car will be purchased by the price agreed by Accel and <span id="myname2"></span></h4>   
+    <h4>click the button below to assure that you are not a bot and to officially send your application to buy the car </h4>
+    <a href="thx.html"><button style="height: 25px; width: 50px;"></button></a>
+   <script>
+    function myupdatetext(){
+      myname1.textContent=client.value;
+      mycar.textContent=car.value;
+      myphone.textContent=phone.value;
+      mycard.textContent=card.value;
+      myname2.textContent=client.value;
+      myname.textContent=client.value;
+    }
+   mybtn.onclick=myupdatetext
+    </script>
+</body>
+</html>

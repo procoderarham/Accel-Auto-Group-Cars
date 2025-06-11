@@ -1,0 +1,143 @@
+body,html{
+    height: 100%;
+    width: 100%;
+}
+#cars{
+   width: 1470px;
+   height: 750px;
+   background-image: linear-gradient(rgb(0,0,0,0.3),rgb(0,0,0,0.3)),url("download.jpeg");
+   background-repeat: no-repeat;
+   background-size: cover;
+   background-position: center;
+   margin: auto;
+}
+.get{
+    color: darkturquoise;
+    text-align: left;
+    height: 50px;
+}
+#texts{
+    text-align: center;
+    margin-top: -348;
+}
+#btn1{
+    margin-bottom:300px;
+    color: red;
+}
+#slogan{
+    padding-top: 200px;
+    color: red;
+}
+#slogan1{
+    color: red;
+}
+.hide{
+    display: none;
+    
+}
+.show{
+    display: block;
+}
+#pagani{
+    margin: auto;
+    text-align: center;
+    padding: 70px;
+}
+html {
+    scroll-behavior: smooth;
+  }
+#bugatti{
+    margin: auto;
+    text-align: center;
+    padding: 70px;
+}
+#lambo{
+    margin: auto;
+    text-align: center;
+    padding: 70px;
+}
+#lotus{
+    margin: auto;
+    text-align: center;
+    padding: 70px;
+}
+#Gclass{
+    margin: auto;
+    text-align: center;
+    padding: 70px;
+}
+#MGclass{
+    margin: auto;
+    text-align: center;
+    padding: 70px;
+}
+#rolls{
+    margin: auto;
+    text-align: center;
+    padding: 70px;
+}
+#ssc{
+    margin: auto;
+    text-align: center;
+    padding: 70px;
+}
+#avatar{
+    margin: auto;
+    text-align: center;
+    padding: 70px;
+}
+#purano{
+    margin: auto;
+    text-align: center;
+    padding: 70px;
+}
+#ferr{
+    margin: auto;
+    text-align: center;
+    padding: 70px;
+}
+#urus{
+    margin: auto;
+    text-align: center;
+    padding: 70px;
+}
+#ferr{
+    margin: auto;
+    text-align: center;
+    padding: 70px;
+}
+#beamer{
+    margin: auto;
+    text-align: center;
+    padding: 70px;
+}
+#porch{
+    margin: auto;
+    text-align: center;
+    padding: 70px;
+}
+#mclare{
+    margin: auto;
+    text-align: center;
+    padding: 70px;
+}
+#mclar{
+    margin: auto;
+    text-align: center;
+    padding: 70px;
+}
+#cone{
+    margin: auto;
+    text-align: center;
+    padding: 70px;
+}
+#niss{
+    margin: auto;
+    text-align: center;
+    padding: 70px;
+}
+#toy{
+    margin: auto;
+    text-align: center;
+    padding: 70px;
+}
